@@ -21,8 +21,8 @@ PROGRAM STUDI : INFORMATIKA
 </div>
 
 # Perancangan dan Analisis Algoritma	
-`🧑‍🏫️ Dosen : Randi Proska Sandra, M.Sc` <br>
-`📋 Sesi : 202423430075` <br>
+`🧑‍🏫️ Dosen  : Randi Proska Sandra, M.Sc` <br>
+`📋 Sesi     : 202423430075` <br>
 `📑 Semester : 4` <br>
   
 <h1> Mergesort Algorithm </h1>
