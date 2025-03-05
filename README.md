@@ -11,9 +11,9 @@
 <tr>
 <td>
 <b><pre>
-N A M A                   : F a t t a n  N a u f a n  I s l a m i<br>
-N I M                     : 2 3 3 4 3 0 3 7<br>
-P R O G R A M   S T U D I : I n f o r m a t i k a<br>
+NAMA          : FATTAN NAUFAN ISLAMI<br>
+NIM           : 23343037<br>
+PROGRAM STUDI : INFORMATIKA
 </pre></b>
 </td>
 </tr>
